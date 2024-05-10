@@ -1,2 +1,2 @@
-# firstrepo
-IntelliJ
+# FirstRepo
+GIT Practice Repo
